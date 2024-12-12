@@ -6,11 +6,14 @@ body {
   background-color: black;
 }
 
-h1 {
+.text {
   color: white;
   font-family: helvetica;
 }
 
+.project {
+  text-align: left;
+}
 td {
   vertical-align: top;
   
