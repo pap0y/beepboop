@@ -3,11 +3,11 @@ table {
 }
 
 body {
-  background-color: white;
+  background-color: black;
 }
 
 .text {
-  color: black;
+  color: white;
   font-family: helvetica;
 }
 
